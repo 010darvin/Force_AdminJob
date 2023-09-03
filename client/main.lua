@@ -23,6 +23,8 @@ local CurrentActionData         = {}
 local IsHandcuffed              = false
 local IsDragged                 = false
 local CopPed                    = 0
+local admin 5
+local admin-leitung 1
 
 ESX                             = nil
 GUI.Time                        = 0
